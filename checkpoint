@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/divya/Snake_NeuralNetwork/snake.tflearn"
+all_model_checkpoint_paths: "/home/divya/Snake_NeuralNetwork/snake.tflearn"
